@@ -32,9 +32,6 @@ print(f"Number of rows and columns in the dataset: {df.shape}")
 df.describe()
 ```
 
-
-
-
 <div>
 <style scoped>
     .dataframe tbody tr th:only-of-type {
